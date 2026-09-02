@@ -87,4 +87,4 @@ python main.py
 
 ## 作者
 
-计科1801 任鑫鑫 1805020030
+JachynRen
